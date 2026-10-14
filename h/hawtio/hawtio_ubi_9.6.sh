@@ -1,7 +1,7 @@
 #!/bin/bash 
 # ----------------------------------------------------------------------------
 #
-# Package        : hawtio
+# Package        : hawtio1
 # Version        : 4.x
 # Source repo    : https://github.com/hawtio/hawtio.git
 # Tested on      : UBI:9.6
